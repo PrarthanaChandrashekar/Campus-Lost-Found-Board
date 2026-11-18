@@ -224,7 +224,6 @@ Bash
 git push -u origin main
 
 
-
 Project Purpose
 
 The purpose of this project is to provide a secure, searchable, and cloud-based platform for managing lost and found objects within a college campus.
